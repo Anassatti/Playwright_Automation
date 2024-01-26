@@ -50,6 +50,7 @@ Visual testing, a method of software testing, evaluates the visual fidelity of y
 **Why I implement visual testing**
 
 Visual testing captures defects that other types of UI tests cannot, for example there are limitation of functional are:
+
 •	Pixel-by-pixel differences
 •	Alignment shifts
 •	Page layout
