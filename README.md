@@ -40,3 +40,23 @@ The single-window system or single-window concept is a trade facilitation concep
 ![image](https://github.com/Anassatti/Playwright_Automation/assets/73906550/f4d8a6df-f5c0-4e28-b6cc-26ed9118299e)
 
 
+**Visual Testig**
+
+Part of the project there will be visual testing, below are the full definistion of it
+
+**What is Visual Testing?**
+Visual testing, a method of software testing, evaluates the visual fidelity of your user interface (UI) or graphical user interface (GUI). Visual tests tackle the look of your application and help you capture defects that other types of tests might miss.
+
+**Why I implement visual testing**
+
+Visual testing captures defects that other types of UI tests cannot, for example there are limitation of functional are:
+•	Pixel-by-pixel differences
+•	Alignment shifts
+•	Page layout
+•	Rendering problems
+•	Element overlap
+•	Responsive layout
+•	Font differences
+•	Color differences
+
+
