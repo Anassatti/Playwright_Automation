@@ -25,6 +25,8 @@ Playwright comes with HTML report below
 
 **Tools I used in this project**
 
+Playwright
+
 IDE: Visual Studio Code.
 
 Progreammin Language: Java Script.
@@ -33,7 +35,5 @@ Automation Framework: Page object model.
 
 **About The project**
 
-The project is government portal for single window of government procedures. The portal is integrated services from many government entities, which adds some layer of challanging to the automation framework.
-
-The technology used in developing this project are IBM portal, Angular in front end. In the backend DB2(Oracal DB). In the middle ware there is data power.
+The single-window system or single-window concept is a trade facilitation concept which allows an international (cross-border)trader to submit information to a single agency, rather than having to deal with multiple agencies in multiple locations to obtain the necessary papers, permits, and clearances to complete their import or export processes. There is an obvious time saving benefit to the single window system. The concept is recognised by organisations such as the United Nations Economic Commission for Europe (UNECE) and its Centre for Trade Facilitation and Electronic Business, World Customs Organization (WCO), the United Nations Network of Experts for Paperless Trade and Transport in Asia and the Pacific and the Association of Southeast Asian Nations (ASEAN).
 
