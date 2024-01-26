@@ -67,4 +67,8 @@ Visual testing captures defects that other types of UI tests cannot, for example
 
 •	Color differences
 
+**Visual comparisons**
+
+Playwright Test includes the ability to produce and visually compare screenshots using await expect(page).toHaveScreenshot(). On first execution, Playwright test will generate reference screenshots. Subsequent runs will compare against the reference.
+
 
