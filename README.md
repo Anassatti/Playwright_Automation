@@ -37,3 +37,6 @@ Automation Framework: Page object model.
 
 The single-window system or single-window concept is a trade facilitation concept which allows an international (cross-border)trader to submit information to a single agency, rather than having to deal with multiple agencies in multiple locations to obtain the necessary papers, permits, and clearances to complete their import or export processes. There is an obvious time saving benefit to the single window system. The concept is recognised by organisations such as the United Nations Economic Commission for Europe (UNECE) and its Centre for Trade Facilitation and Electronic Business, World Customs Organization (WCO), the United Nations Network of Experts for Paperless Trade and Transport in Asia and the Pacific and the Association of Southeast Asian Nations (ASEAN).
 
+![image](https://github.com/Anassatti/Playwright_Automation/assets/73906550/f4d8a6df-f5c0-4e28-b6cc-26ed9118299e)
+
+
