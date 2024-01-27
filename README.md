@@ -74,9 +74,13 @@ Playwright Test includes the ability to produce and visually compare screenshots
 **How Visual testing or visual regression testing works**
 
 •	Drive the application under test (AUT) and take a screenshot
+
 •	Compare the screenshot with an initial “baseline” image
+
 •	Report the differences
+
 •	Update the baseline as needed
+
 
 
 
