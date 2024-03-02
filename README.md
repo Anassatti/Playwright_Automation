@@ -81,6 +81,10 @@ Playwright Test includes the ability to produce and visually compare screenshots
 
 •	Update the baseline as needed
 
+**My opinion**
+
+There is a limitation in the Playwright dealing with UI controls specifically in case of multi layers application for instance, my application Angular integrated with IBM portal some of the UI element get clicked for first time . and   second time it will not even if you increase the wait time, this issue I never faced with Selenium. The unique feature of the Playwright tool is the speed of execution compare to others.
+
 
 
 
